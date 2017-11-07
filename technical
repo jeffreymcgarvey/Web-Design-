@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Where Are They Now?</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1>Where Are They Now?</h1>
+    <p>My pitch is to produce a website that provides fun information about the current state of former beloved child actors.
+      <h2>Why am I doing this?</h2>
+      <p>Because leading a project in a computer-based class when I have the computer skills of a 90 year-old sounds like an anxious ordeal and I'd rather join <strong>your</strong> team!
+        <h2>What Do We Do?</h2>
+        <p>Hopefully nothing! But just in case...</p>
+        <ul>
+          <li>Gather information and media files about various has-beens</li>
+          <li>Organize information in an attractive, easy to follow manner</li>
+          <li>Bring snacks in order for us to have snacks</li>
+          <li>Provide links to relevant web sources</li>
+          <li>Potentially incorporate elements from our visual and audio unit</li>
+
+<img src='UNSWEETINED.jpg' width='300'/>
+<img src='UNRKEL.jpg'width='300'/>
+
+    <div class='button'>Button One</div>
+  </body>
+</html>
