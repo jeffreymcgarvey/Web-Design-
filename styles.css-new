@@ -1,0 +1,26 @@
+body {
+  color: #8B008B;
+  background-color: #EEEEEE;    /* Light gray */
+}
+
+h1 {
+  font-size: 42px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cambria", sans-serif;
+  font-weight: normal;                              /* Add this */
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
